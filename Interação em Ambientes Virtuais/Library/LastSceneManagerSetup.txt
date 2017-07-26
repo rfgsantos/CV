@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ShooterSuvrvival/Scenes/testingSurvival.unity
+  isLoaded: 1
+  isActive: 1

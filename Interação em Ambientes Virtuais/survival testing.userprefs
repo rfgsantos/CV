@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ShooterSuvrvival\Scripts\Game\CamMouseLookup.cs">
+    <Files>
+      <File FileName="Assets\ShooterSuvrvival\Scripts\Game\spawnManager.cs" Line="8" Column="5" />
+      <File FileName="Assets\ShooterSuvrvival\Scripts\Items\pickupBoost.cs" Line="18" Column="5" />
+      <File FileName="Assets\ShooterSuvrvival\Scripts\Game\gameManager.cs" Line="54" Column="15" />
+      <File FileName="Assets\ShooterSuvrvival\Scripts\Player\playerShooting.cs" Line="44" Column="53" />
+      <File FileName="Assets\ShooterSuvrvival\Scripts\Player\pickupDestroy.cs" Line="26" Column="19" />
+      <File FileName="Assets\ShooterSuvrvival\Scripts\Enemies\enemyHealth.cs" Line="36" Column="21" />
+      <File FileName="Assets\ShooterSuvrvival\Scripts\Enemies\enemyMovement.cs" Line="28" Column="45" />
+      <File FileName="Assets\ShooterSuvrvival\Scripts\Enemies\enemyAttack.cs" Line="50" Column="20" />
+      <File FileName="Assets\ShooterSuvrvival\Scripts\Game\Radar.cs" Line="1" Column="1" />
+      <File FileName="Assets\ShooterSuvrvival\Scripts\Game\radarImageObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\ShooterSuvrvival\Scripts\Game\CamMouseLookup.cs" Line="16" Column="66" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

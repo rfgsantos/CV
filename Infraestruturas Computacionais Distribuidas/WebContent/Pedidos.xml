@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pedidos>
+
+<pedido cliente="993360" estado="aceitar" id="1">
+    <produto refid="13"/>
+  </pedido>
+<pedido cliente="103734" estado="aceitar" id="2"/>
+</pedidos>

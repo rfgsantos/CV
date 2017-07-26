@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="73">
+		<nome>feijao branco</nome>
+		<quantidade unidade="kg">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="75">
+		<nome>frango</nome>
+		<quantidade unidade="kg">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="55">
+		<nome>cebola</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+
+	<ingrediente id="52">
+		<nome>Cenoura</nome>
+		<quantidade unidade="unidade">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="50">
+		<nome>feijao verde</nome>
+		<quantidade unidade="g">200</quantidade>
+	</ingrediente>
+	<ingrediente id="74">
+		<nome>abobora</nome>
+		<quantidade unidade="g">300</quantidade>
+	</ingrediente>
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="mL">200</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<receita tempo="45min">
+		<preparo>Leve ao lume um tacho com 2 litros de água e deixe ferver. Junte os peitos de frango e deixe cozer durante 10 minutos. Descasque e corte em pedaços a cebola, o nabo e a abóbora. Deite o feijão para um tacho, junte 2 litros de água e leve ao lume. De seguida adicione a cebola, o nabo, a abóbora e deixe cozinhar durante 15 minutos.</preparo>
+		<preparo>Entretanto descasque a cenoura e rale-a. Corte a couve-coração em tiras finas, lave-a e deixe-a escorrer. Limpe o feijão-verde e corte-o também em tiras finas. Retire os peitos de frango do tacho, deixe-os arrefecer e desfie-os.</preparo>
+		<preparo>Reduza a sopa a puré e leve-a de novo ao lume, deixando-a ferver. Junte os legumes cortados e mexa. Deixe cozinhar durante 10 minutos. Junte os peitos de frango desfiados, adicione o azeite e tempere com sal. Sirva quente.</preparo>
+	</receita>
+
+</ingredientes>

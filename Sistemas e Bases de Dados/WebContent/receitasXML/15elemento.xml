@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="17">
+		<nome>Choco</nome>
+		<quantidade unidade="g">600</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="73">
+		<nome>feijao branco</nome>
+		<quantidade unidade="g">320</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="mL">100</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="55">
+		<nome>cebola</nome>
+		<quantidade unidade="unidades">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="58">
+		<nome>tomate</nome>
+		<quantidade unidade="unidades">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="52">
+		<nome>cenopura</nome>
+		<quantidade unidade="unidades">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="83">
+		<nome>salsa</nome>
+		<quantidade unidade="g">20</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="82">
+		<nome>chourico</nome>
+		<quantidade unidade="g">50</quantidade>
+	</ingrediente>
+
+	
+	<receita tempo="60min">
+		<preparo>1.Demolhe o feijão (durante cerca de 12 horas) e coza-o em água temperada de sal, um fio de azeite e um pouco de cebola.</preparo>
+		<preparo>2.Refogue a cebola picada, o tomate picado limpo de pele e sementes, e o louro, em azeite até alourar.</preparo>
+		<preparo>3.Acrescente o choco limpo, cortado aos cubos, a cenoura e o chouriço cortados às rodelas e deixe cozinhar.</preparo>
+		<preparo>4.Junte o feijão cozido e deixe apurar.</preparo>
+		<preparo>5.Rectifique os temperos e sirva polvilhado com salsa picada.</preparo>
+	</receita>
+
+</ingredientes>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="24">
+		<nome>pescada</nome>
+		<quantidade unidade="g">400</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="30">
+		<nome>agua</nome>
+		<quantidade unidade="L">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="13">
+		<nome>camarao</nome>
+		<quantidade unidade="g">250</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="55">
+		<nome>cebola</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidade">3</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="mL">30</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="76">
+		<nome>polpa tomate</nome>
+		<quantidade unidade="pacotes">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="69">
+		<nome>vinho branco</nome>
+		<quantidade unidade="mL">100</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="27">
+		<nome>esparguete</nome>
+		<quantidade unidade="g">300</quantidade>
+	</ingrediente>
+	
+	<receita tempo="45min">
+		<preparo>1.Coloque o peixe num tacho cubra com água, adicione os Knorr Natura Legumes e leve a ferver suavemente durante 6 minutos.</preparo>
+		<preparo>2.Adicione o miolo de camarão e ferva durante mais 2 minutos.</preparo>
+		<preparo>3.Coe o peixe e o marisco, reservando o caldo da cozedura.</preparo>
+		<preparo>4.Esmague os dentes de alho, tire-lhes a pele e pique-os finamente. Descasque a cebola e pique-a.</preparo>
+		<preparo>5.Pele a cenoura e corte-a em meias luas.</preparo>
+		<preparo>6.Aqueça o azeite num tacho, junte os alhos e a cebola picados e deixe refogar.</preparo>
+		<preparo>7.Junte a cenoura, tape e deixe cozinhar cerca de 5 minutos sobre lume brando.</preparo>
+		<preparo>8.Adicione a polpa de tomate e o vinho branco e deixe ferver durante mais 5 minutos.</preparo>
+		<preparo>9.Junte o caldo da cozedura do peixe e água a ferver na quantidade necessária para cozer a massa.</preparo>
+		<preparo>10.Quando retomar fervura, introduza os cotovelinhos, tape e deixe cozer durante 15 minutos.</preparo>
+		<preparo>11.Entretanto limpe o peixe de pele e espinhas (se as tiver), desfaça-o em lascas grandes.</preparo>
+		<preparo>12.Adicione o peixe e o camarão à massa quando estiver quase pronta, misture delicadamente e deixe terminar a cozedura.</preparo>
+		<preparo>13.Salpique generosamente com coentros picados.</preparo>
+	</receita>
+
+</ingredientes>

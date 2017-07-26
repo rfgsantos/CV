@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="5">
+		<nome>ovos</nome>
+		<quantidade unidade="unidades">5</quantidade>
+	</ingrediente>
+	<ingrediente>
+		<nome id="43">acucar</nome>
+		<quantidade unidade="g">40</quantidade>
+	</ingrediente>
+	<ingrediente id="22">
+		<nome>limao</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+
+
+	<receita tempo="25min">
+		<preparo>1.Faça a sua neve com as claras de ovos, deixando bem consistente</preparo>
+		<preparo>2.Na batedeira, vá acrescentando o açúcar, aos poucos</preparo>
+		<preparo>3.Coloque em uma refratária de vidro (ou algo assim) e rale um pouco de casquinha de limão só para dar o toquinho final</preparo>
+		<preparo>4.Leve ao forno a 100º C</preparo>
+		<preparo>5.Deixe por, aproximadamente, 10 minutos e se não crescer, pode aumentar para uns 15 minutos</preparo>
+	</receita>
+
+</ingredientes>

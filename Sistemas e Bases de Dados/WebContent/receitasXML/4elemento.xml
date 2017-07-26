@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="7">
+		<nome>dourada</nome>
+		<quantidade unidade="kg">2</quantidade>
+	</ingrediente>
+	<ingrediente id="22">
+		<nome>limao</nome>
+		<quantidade unidade="unidade">2</quantidade>
+	</ingrediente>
+	<ingrediente id="56">
+		<nome>dentes de alho</nome>
+		<quantidade unidade="unidades">3</quantidade>
+	</ingrediente>
+	<ingrediente id="68">
+		<nome>café</nome>
+		<quantidade unidade="colher">1</quantidade>
+	</ingrediente>
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	<ingrediente id="63">
+		<nome>pimenta</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	<receita>
+		<preparo>1. Limpe, lave e escorra as douradas. </preparo>
+		<preparo>2. Tempere por dentro e por fora com sal e sumo de limão e deixe tomar o gosto durante uma hora.</preparo>
+		<preparo>3. Misture o alho com o colorau, um pouco de pimenta acabada de moer e os cominhos.</preparo>
+		<preparo>4. Faça cortes dos dois lados dos peixes, e barre-os com o tempero. </preparo>
+		<preparo>5. Ponha-os a grelhar, durante 10 minutos, numa grelha aquecida.</preparo>
+		<preparo>6. Vire os peixes com dois garfos, e asse-os durante mais cinco minutos.</preparo>
+	</receita>
+
+
+
+</ingredientes>

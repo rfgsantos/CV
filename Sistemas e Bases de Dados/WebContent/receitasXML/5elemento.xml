@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="6">
+		<nome>lombo de porco</nome>
+		<quantidade unidade="kg">1</quantidade>
+	</ingrediente>
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	<ingrediente id="56">
+		<nome>dentes de alho</nome>
+		<quantidade unidade="unidade">2</quantidade>
+	</ingrediente>
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	<ingrediente id="66">
+		<nome>pimentão doce</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	<ingrediente id="65">
+		<nome>ervas aromaticas</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	<ingrediente id="67">
+		<nome>cravinho</nome>
+		<quantidade unidade="unidades">6</quantidade>
+	</ingrediente>
+	<ingrediente id="64">
+		<nome>folha de louro</nome>
+		<quantidade unidade="unidade">2</quantidade>
+	</ingrediente>
+	<ingrediente id="69">
+		<nome>vinho branco</nome>
+		<quantidade unidade="mL">200</quantidade>
+	</ingrediente>
+	<ingrediente id="19">
+		<nome>batata</nome>
+		<quantidade unidade="g">300</quantidade>
+	</ingrediente>
+	
+	<receita>
+		<preparo>Num almofariz deite os alhos cortados aos bocadinhos o sal e o pimentão doce, esmague bem até formar uma pasta. Juntar o azeite e as ervas aromáticas, volte a esmagar para misturar.</preparo>
+		<preparo>Com esta pasta, barre bem o lombinho, coloque numa taça, mais os cravinhos, as folhas de louro e regue com o vinho branco. Deixe marinar no mínimo 1 hora.</preparo>
+		<preparo>Prepare as batatas. Descasque-as, corte-as em cubos grandes e tempere com sal, pimentão doce q.b e uma boa pitada de ervas aromáticas. Reserve. Ligue o forno a 200ºC.</preparo>
+		<preparo>Coloque a carne num tabuleiro e as batatas em volta, leve ao forno cerca de 1hora e meia. Durante este tempo, de vez em quando, regue a carne e as batatas com o molho.</preparo>
+		<preparo>Para verificar se a carne está assada, espete um garfo no centro, se não sair liquido ao retirar o garfo, então a carne está pronta.</preparo>
+	</receita>
+</ingredientes>

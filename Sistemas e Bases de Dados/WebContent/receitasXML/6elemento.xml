@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="8">
+		<nome>garoupa</nome>
+		<quantidade unidade="kg">2</quantidade>
+	</ingrediente>
+	<ingrediente id="70">
+		<nome>pimento</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	<ingrediente id="58">
+		<nome>tomate</nome>
+		<quantidade unidade="g">250</quantidade>
+	</ingrediente>
+	<ingrediente id="55">
+		<nome>cebola</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidade">2</quantidade>
+	</ingrediente>
+	<ingrediente id="19">
+		<nome>batata</nome>
+		<quantidade unidade="g">500</quantidade>
+	</ingrediente>
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="mL">100</quantidade>
+	</ingrediente>
+	<ingrediente id="69">
+		<nome>vinho branco</nome>
+		<quantidade unidade="mL">100</quantidade>
+	</ingrediente>
+	<ingrediente id="83">
+		<nome>salsa</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	<ingrediente id="Pimenta">
+		<nome>pimenta</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	<ingrediente id="64">
+		<nome>louro</nome>
+		<quantidade unidade="unidade">2</quantidade>
+	</ingrediente>
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	<receita>
+		<preparo>1. Tempere as postas de garoupa de ambos os lados com sal e pimenta.</preparo>
+		<preparo>2. Numa travessa de ir ao forno, coloque no fundo metade da cebola, metade do tomate, metade do pimento, metade dos alhos, tempere com louro em pó, espalhe as batatas e tempere com um pouco de sal.
+Coloque o peixe por cima das batatas e cubra com a restante cebola, tomate, pimento e alho.
+Regue tudo com vinho branco, tempere com louro em pó e por fim regue tudo com o azeite.</preparo>
+		<preparo>3. Leve ao forno pré-aquecido nos 170º durante 1 hora.
+Depois de tudo assado, decore com raminhos de salsa e acompanhe com legumes cozidos.</preparo>
+	</receita>
+
+</ingredientes>

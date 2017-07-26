@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="13">
+		<nome>camarao</nome>
+		<quantidade unidade="g">400</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="55">
+		<nome>cebola</nome>
+		<quantidade unidade="g">200</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="43">
+		<nome>acucar</nome>
+		<quantidade unidade="g">40</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="62">
+		<nome>vinagre</nome>
+		<quantidade unidade="mL">20</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="63">
+		<nome>pimenta</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="54">
+		<nome>agridoce</nome>
+		<quantidade unidade="frascos">10</quantidade>
+	</ingrediente>
+	
+	<receita tempo="45min">
+		<preparo>1.Descasque e corte as cebolas e aloure-as numa caçarola com 10g de açúcar e 1/2dl de vinagre balsâmico. Cubra com água e cozinhe em lume brando durante cerca de dez minutos. Caramelize, à parte, o restante açúcar, coberto de vinagre balsâmico, e cozinhe as gambas no molho. Tempere com sal e pimenta. Regue as gambas e a cebola com o caramelo de vinagre e sirva.</preparo>
+	</receita>
+
+</ingredientes>

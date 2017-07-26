@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="6">
+		<nome>entrecosto</nome>
+		<quantidade unidade="kg">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="81">
+		<nome>grao</nome>
+		<quantidade unidade="g">250</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="52">
+		<nome>cenoura</nome>
+		<quantidade unidade="unidade">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente  id="55">
+		<nome>cebola</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="27">
+		<nome>esparguete</nome>
+		<quantidade unidade="g">300</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="76">
+		<nome>polpa tomate</nome>
+		<quantidade unidade="pacotes">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="63">
+		<nome>pimenta</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="mL">10</quantidade>
+	</ingrediente>
+	
+	<receita tempo="45min">
+		<preparo>1.Temperei a carne de vespera com sal, pimenta, alho, louro e vinho tinto.</preparo>
+		<preparo>2.Depois no próprio dia coze-se a carne só com água.</preparo>
+		<preparo>3.Coze-se também o grão de bico (que também pus de molho de véspera) mas á parte..</preparo>
+		<preparo>4.Entretanto faz-se um refogado com cebola, alho e azeite, e leva-se ao lume para ganhar um pouco de cor.</preparo>
+		<preparo>5.Acrescenta-se um pouco de água e a polpa de tomate e deixa-se cozer um pouco, rala-se com a varinha.</preparo>
+		<preparo>6.Corta-se a cenoura em rodelas, a chouriça em rodelas, o pimento em tirinhas e coloca-se a cozer no refogado.</preparo>
+		<preparo>7.Depois de a carne estar cozida partir em pedaços pequenos e colocar também a tomar gosto no refogado.</preparo>
+		<preparo>8.Coloca-se também o grão de bico no refogado(colocar tudo numa panela grande) e deixar cozer cerca de cinco minutos, depois meter a massa e deixar cozer mais dez minutos.</preparo>
+		<preparo>9.Temperar com sal e pimenta e servir.</preparo>
+	</receita>
+
+</ingredientes>

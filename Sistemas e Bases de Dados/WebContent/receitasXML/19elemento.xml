@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="3">
+		<nome>bifes de vaca</nome>
+		<quantidade unidade="kg">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="6">
+		<nome>lombo de porco</nome>
+		<quantidade unidade="kg">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="82">
+		<nome>chourico</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidade">2</quantidade>
+	</ingrediente>
+	
+	<receita tempo="45min">
+		<preparo>Comece por aquecer a pedra no forno durante 30 minutos a cerca de 200ºC.
+Prepare depois os molhos. Num copo alto coloque o ovo inteiro, a mostarda, um pouco de sumo de limão, tempere de sal e pimenta e coloque um pouco de óleo. Com a varinha mágica bata a mistura até esta ficar cremosa, e vá acrescentando mais óleo, e batendo com a varinha até obter uma maionese, que servirá de molho base.</preparo>
+
+<preparo>Divida esta mistura por quatro tacinhas. A uma delas acrescente o pó de caril, e terá um molho de caril. À seguinte acrescente o alho e a salsa picada e terá um molho de alho. Na terceira tacinha junte o ketchup e umas gotas de molho inglês e terá molho coktail. Na ultima tacinha junte os cominhos, o cravinho, os coentros em pó e o açafrão e terá um delicioso molho oriente.</preparo>
+<preparo>Prepare depois a salada de alface que vai servir como acompanhamento juntamente com a couve roxa e a cenoura ralada. Descasque as laranjas e corte-as em rodelas. Corte o pimento em tiras para o grelhar também na pedra. Frite ou asse no forno as batatinhas noisettes.</preparo>
+<preparo>Coloque cada um destes acompanhamentos numa tacinha diferente e leve para a mesa juntamente com os molhos, para que depois cada um dos convidados se sirva.
+Tempere as carnes me separado com o alho e o sal. Leve também para a mesa em recipientes separados, bem como o chouriço cortado em rodelas.</preparo>
+<preparo>Chame para a mesa e, cuidadosamente, retire a pedra do forno e coloque-a sobre a mesa, no suporte próprio com as lamparinas já acesas.</preparo>
+	</receita>
+
+</ingredientes>

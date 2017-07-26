@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="23">
+		<nome>Enguias</nome>
+		<quantidade unidade="kg">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="55">
+		<nome>cebola</nome>
+		<quantidade unidade="unidades">2</quantidade>
+	</ingrediente>
+
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidades">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="58">
+		<nome>tomate</nome>
+		<quantidade unidade="unidades">15</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="69">
+		<nome>vinho branco</nome>
+		<quantidade unidade="mL">250</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="63">
+		<nome>pimenta</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="86">
+		<nome>farinha</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<receita tempo="60min">
+		<preparo>1.Picam-se as cebolas, os alhos e o tomate sem pele e sem grainhas.</preparo>
+		<preparo>2.Levam-se ao lume a refogar em lume brando, com um pouquinho de água para o refogado não queimar.</preparo>
+		<preparo>3.Quando a cebola e os tomates estiverem cozidos, batem-se com a varinha mágica até se obter um polme, no qual se deita o peixe, o vinho e o piripiri.</preparo>
+		<preparo>4.Deixa-se cozer o peixe.</preparo>
+		<preparo>5.Para acompanhar este ensopado, fazem-se umas papas de farinha de milho:</preparo>
+		<preparo>6.Para seis pessoas é necessário meio quilo de farinha de milho.</preparo>
+		<preparo>7.Põe-se a água fria num recipiente, de preferência de barro, e vai-se deitando a farinha e mexendo com uma colher de pau, até dissolver bem.</preparo>
+		<preparo>8.Nunca se deve dissolver a farinha de milho em água quente para não ficar com grumos.</preparo>
+		<preparo>9.Leva-se ao lume para ferver.</preparo>
+		<preparo>10.Depois de começar a ferver pode, então, junatr-se água quente conforme for necessário à farinha de milho, que cresce.</preparo>
+		<preparo>11.Vai-se mexendo até ficar grossinha.</preparo>
+		<preparo>12.O molho do peixe também deve ficar grossinho para pôr por cima das papas ao servir.</preparo>
+	</receita>
+
+</ingredientes>

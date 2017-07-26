@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="5">
+		<nome>ovos</nome>
+		<quantidade unidade="unidade">12</quantidade>
+	</ingrediente>
+	<ingrediente id="43">
+		<nome>acucar</nome>
+		<quantidade unidade="g">300</quantidade>
+	</ingrediente>
+	<ingrediente id="71">
+		<nome>leite</nome>
+		<quantidade unidade="L">1</quantidade>
+	</ingrediente>
+	<ingrediente>
+		<nome>canela</nome>
+		<quantidade unidade="undiade">1</quantidade>
+	</ingrediente>
+	<ingrediente id="22">
+		<nome>limao</nome>
+		<quantidade unidade="casca">1</quantidade>
+	</ingrediente>
+	<ingrediente id="30">
+		<nome>água</nome>
+		<quantidade unidade="mL">agua</quantidade>
+	</ingrediente>
+
+	<receita>
+		<preparo>1. Num tachinho, leve ao lume os 300g de açúcar e os 100 ml de água.
+Mexa e deixe ferver até que fique no ponto de caramelo.
+Quando o caramelo começar a ficar loirinho, apague o lume.
+Espalhe o caramelo por uma forma de pudim (forma de 2,5 litros).
+Certifique-se que o caramelo fica espalhado por igual.</preparo>
+		<preparo>2. Num tacho, leve ao lume o leite, o pau de canela e a casca de limão.
+Deixe aquecer, sem deixar ferver.</preparo>
+		<preparo>3. Parta os ovos para uma tigela e adicione os 250g de açúcar.
+Bata um pouco com uma vara de arames.
+Coe o leite numa rede fina.
+Em fio e mexendo sempre, junte o leite ao ovos.</preparo>
+<preparo>4. Verta o líquido para a forma e tape-a.
+Coloque a forma num tacho com água para que coza em banho maria.</preparo>
+<preparo>5. Leve o tacho ao forno pré-aquecido nos 200º e deixe cozer durante 1 hora.
+Passado 1 hora, retire.
+Deixe o pudim arrefecer totalmente dentro do tacho antes de desenformar.
+Depois de frio e de desenformado está pronto a servir.</preparo>
+	</receita>
+
+</ingredientes>

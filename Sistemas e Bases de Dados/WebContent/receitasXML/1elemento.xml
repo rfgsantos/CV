@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <ingredientes>
+  
+	  <ingrediente id="1">
+		  <nome>bacalhau desfiado</nome>
+		  <quantidade unidade="g">600</quantidade>
+	  </ingrediente>
+	   <ingrediente id="14">
+		  <nome>molho bechamel</nome>
+		  <quantidade unidade="embalagens">2</quantidade>
+	  </ingrediente>
+	  <ingrediente id="19">
+		  <nome>batata</nome>
+		  <quantidade unidade="g">2</quantidade>
+	  </ingrediente>
+	  <ingrediente id="55">
+		  <nome>cebola</nome>
+		  <quantidade unidade="unidades">1</quantidade>
+	  </ingrediente>
+	  <ingrediente id="56">
+		  <nome>dentes de alho</nome>
+		  <quantidade unidade="unidades">2</quantidade>
+	  </ingrediente>
+	  <ingrediente id="79">
+		  <nome>manteiga</nome>
+		  <quantidade unidade="g">30</quantidade>
+	  </ingrediente>
+	  <ingrediente id="64">
+		  <nome>folha louro</nome>
+		  <quantidade unidade="unidade">1</quantidade>
+	  </ingrediente>
+	  
+	<receita tempo="40min">
+		<preparo>Coloque a cebola, o alho, o louro e a manteiga num tacho e deixe suar.</preparo>
+		<preparo>Adicione e envolva o bacalhau desfiado no preparado. Deixe cozinhar durante 2 minutos e junte as batatas e as 2 embalagens de Molho Bechamel. Deixe ferver durante 5 minutos, rectificando temperos se necessário.</preparo>
+		<preparo>Coloque num tabuleiro e leve ao forno a corar. Sirva com uma salada de alfaces diversas e agrião.</preparo>
+    </receita>
+  
+  
+  </ingredientes>

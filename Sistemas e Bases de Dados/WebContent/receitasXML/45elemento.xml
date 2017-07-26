@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="41">
+		<nome>bolacha</nome>
+		<quantidade unidade="g">75</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="79">
+		<nome>manteiga</nome>
+		<quantidade unidade="g">30</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="2">
+		<nome>natas</nome>
+		<quantidade unidade="g">350</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="40">
+		<nome>queijo creme</nome>
+		<quantidade unidade="g">350</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="43">
+		<nome>acucar</nome>
+		<quantidade unidade="g">40</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="77">
+		<nome>gelatina</nome>
+		<quantidade unidade="g">5</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="78">
+		<nome>doce</nome>
+		<quantidade unidade="frasco">1</quantidade>
+	</ingrediente>
+	
+	<receita tempo="45min">
+		<preparo>1.Esmigalhe as bolachas. Adicione a manteiga derretida e misture bem. Coloque a massa numa forma (de fundo removível) calcando um pouco, de forma a forrar o fundo e deixe repousar no frigorífico durante 10 minutos.</preparo>
+		<preparo>2.À parte ferva as natas, o açúcar e o Philadelphia. Retire do fogão, passe pelo passador e junte a gelatina neutra.</preparo>
+		<preparo>3.Coloque a mistura na forma e deixe repousar mais 6 horas no frigorífico até servir.</preparo>
+		<preparo>4.No momento em que for servir, cubra a tarte com a geleia que escolheu e decore com frutos silvestres.</preparo>
+	</receita>
+
+</ingredientes>

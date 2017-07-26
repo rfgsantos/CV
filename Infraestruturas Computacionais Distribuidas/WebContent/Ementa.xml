@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<restaurante email="restaurante_casa_do_pasto@gmail.com" morada="Rua emidio navarro lote 300" nome="Casa do Pasto">
+	<!--pratos do restaurante-->
+	<items>
+		<item iditem="1" tipo="carne">Bife de Vaca c/ ovo<ingrediente refid="2"/><ingrediente refid="4"/></item>
+		<item iditem="2" tipo="carne">Lasagna<ingrediente refid="2"/><ingrediente refid="5"/></item>
+		<item iditem="3" tipo="carne">Bolonhesa<ingrediente refid="5"/><ingrediente refid="2"/></item>
+		<item iditem="4" tipo="carne">Escalopes de Vitela c/ Cogumelos<ingrediente refid="2"/><ingrediente refid="6"/></item>
+		<item iditem="5" tipo="peixe">Arroz de Polvo<ingrediente refid="1"/><ingrediente refid="3"/></item>
+		<item iditem="6" tipo="peixe">Salmao Grelhado<ingrediente refid="8"/><ingrediente refid="9"/></item>
+		<item iditem="7" tipo="peixe">Espetada de Tamboril<ingrediente refid="7"/><ingrediente refid="9"/></item>
+		<item iditem="8" tipo="peixe">Lulas Recheadas<ingrediente refid="10"/><ingrediente refid="9"/></item>
+		<item iditem="9" tipo="entrada">Pao Tostado<ingrediente refid="11"/></item>
+		<item iditem="10" tipo="entrada">Chourico e/ou Queijo<ingrediente refid="16"/><ingrediente refid="17"/></item>
+		<item iditem="11" tipo="entrada">Azeitonas<ingrediente refid="18"/></item>
+		<item iditem="12" tipo="entrada">Salada de Polvo<ingrediente refid="1"/></item>
+		<item iditem="13" tipo="fruta">Banana<ingrediente refid="21"/></item>
+		<item iditem="14" tipo="fruta">Laranja<ingrediente refid="20"/></item>
+		<item iditem="15" tipo="fruta">Pera<ingrediente refid="19"/></item>
+		<item iditem="16" tipo="doce">Cheesecake<ingrediente refid="13"/><ingrediente refid="16"/><ingrediente refid="14"/></item>
+		<item iditem="17" tipo="doce">Bolo de Bolacha<ingrediente refid="14"/><ingrediente refid="13"/></item>
+		<item iditem="18" tipo="doce">Mousse de Chocolate<ingrediente refid="12"/></item>
+	</items>
+	<!-- ingredientes do pratos -->
+	<ingredientes>
+		<ingrediente id="1">Polvo</ingrediente>
+		<ingrediente id="2">Carne Vaca</ingrediente>
+		<ingrediente id="3">Arroz</ingrediente>
+		<ingrediente id="4">Ovo</ingrediente>
+		<ingrediente id="5">Massa</ingrediente>
+		<ingrediente id="6">Cogumelos</ingrediente>
+		<ingrediente id="7">Tamboril</ingrediente>
+		<ingrediente id="8">Salmao</ingrediente>
+		<ingrediente id="9">Batata</ingrediente>
+		<ingrediente id="10">Lulas</ingrediente>
+		<ingrediente id="11">Pao</ingrediente>
+		<ingrediente id="12">Chocolate</ingrediente>
+		<ingrediente id="13">Bolacha</ingrediente>
+		<ingrediente id="14">Acucar</ingrediente>
+		<ingrediente id="15">Salada</ingrediente>
+		<ingrediente id="16">Queijo</ingrediente>
+		<ingrediente id="17">Chourico</ingrediente>
+		<ingrediente id="18">Azeitonas</ingrediente>
+		<ingrediente id="19">Pera</ingrediente>
+		<ingrediente id="20">Laranja</ingrediente>
+		<ingrediente id="21">Banana</ingrediente>
+		<ingrediente id="22">Salada</ingrediente>
+	</ingredientes>
+	<!--ementas dos diferentes dias-->
+	<ementas>
+		<!--ementa correspondente ao DIA SEMANA-->
+		<!--almoco-->
+		<ementa modo="diasemana" tipo="almoco">
+			<serve id="1"><item preco="6" refid="1"/></serve> 
+			<serve id="2"><item preco="6" refid="2"/></serve>
+			<serve id="3"><item preco="15" refid="5"/></serve>	
+			<serve id="4"><item preco="15" refid="6"/></serve>	
+			<serve id="5"><item preco="15" refid="10"/></serve>
+			<serve id="6"><item preco="15" refid="11"/></serve>
+			<serve id="7"><item preco="15" refid="13"/></serve>
+			<serve id="8"><item preco="15" refid="16"/></serve>
+		</ementa>
+		
+		<!--jantar-->
+		<ementa modo="diasemana" tipo="jantar">
+			<serve id="1"><item preco="15" refid="3"/></serve>	
+			<serve id="2"><item preco="15" refid="4"/></serve>	
+			<serve id="3"><item preco="15" refid="7"/></serve>	
+			<serve id="4"><item preco="15" refid="8"/></serve>	
+			<serve id="5"><item preco="15" refid="9"/></serve>	
+			<serve id="6"><item preco="15" refid="12"/></serve>
+			<serve id="7"><item preco="15" refid="14"/></serve>
+			<serve id="8"><item preco="15" refid="18"/></serve>
+		</ementa>
+		
+		<!--ementa correspondente ao FDS FERIADO-->
+		<!--almoco-->
+		<ementa modo="fdsferiado" tipo="almoco">
+			<serve id="1"><item preco="15" refid="2"/></serve>	
+			<serve id="2"><item preco="15" refid="3"/></serve>	
+			<serve id="3"><item preco="15" refid="5"/></serve>	
+			<serve id="4"><item preco="15" refid="8"/></serve>	
+			<serve id="5"><item preco="15" refid="11"/></serve>
+			<serve id="6"><item preco="15" refid="10"/></serve>
+			<serve id="7"><item preco="15" refid="15"/></serve>
+			<serve id="8"><item preco="15" refid="17"/></serve>
+		</ementa>
+		
+		<!--jantar-->
+		<ementa modo="fdsferiado" tipo="jantar">
+			<serve id="1"><item preco="15" refid="1"/></serve>	
+			<serve id="2"><item preco="15" refid="4"/></serve>	
+			<serve id="3"><item preco="15" refid="6"/></serve>	
+			<serve id="4"><item preco="15" refid="7"/></serve>	
+			<serve id="5"><item preco="15" refid="10"/></serve>	
+			<serve id="6"><item preco="15" refid="12"/></serve>	
+			<serve id="7"><item preco="15" refid="15"/></serve>	
+			<serve id="8"><item preco="15" refid="17"/></serve>	
+		</ementa>
+	</ementas>
+</restaurante>

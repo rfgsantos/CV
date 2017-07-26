@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="48">
+		<nome>leite condensado</nome>
+		<quantidade unidade="lata">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="5">
+		<nome>ovos</nome>
+		<quantidade unidade="unidade">6</quantidade>
+	</ingrediente>
+
+	
+	<receita tempo="20min">
+		<preparo>1.Bater bem o leite condensado com as gemas; depois de bem batido envolve-se com a colher de pau as claras batidas em castelo.</preparo>
+		<preparo>2.Por cima pode-se por amêndoa, noz ou bolacha ralada.</preparo>
+		<preparo>3.Vai ao frio até à hora de servir.</preparo>
+	</receita>
+
+</ingredientes>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<empregados>
+		<empregado id="1" nome="David">
+			<username>david</username>
+			<pass>cenas</pass>
+			<rating>
+				<estrela value="1"/>
+			</rating>
+		</empregado>
+		<empregado id="2" nome="Abel">
+			<username>abel</username>
+			<pass>cenas</pass>
+			<rating>
+				<estrela value="1"/>
+            <estrela value="3"/>
+    <estrela value="4"/>
+    </rating>
+		</empregado>
+		<empregado id="3" nome="Joaquim">
+			<username>joaquim</username>
+			<pass>cenas</pass>
+			<rating>
+				<estrela value="1"/>
+				<estrela value="3"/>
+				<estrela value="3"/>
+				<estrela value="3"/>
+				<estrela value="3"/>
+    </rating>
+		</empregado>
+</empregados>

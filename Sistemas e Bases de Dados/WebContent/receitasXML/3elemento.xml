@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <ingredientes>
+  
+	  <ingrediente id="6">
+		  <nome>tiras entrecosto</nome>
+		  <quantidade unidade="kg">2</quantidade>
+	  </ingrediente>
+	   <ingrediente id="84">
+		  <nome>nabicas</nome>
+		  <quantidade unidade="unidade">2</quantidade>
+	  </ingrediente>
+	   <ingrediente id="19">
+		  <nome>batatas</nome>
+		  <quantidade unidade="g">200</quantidade>
+	  </ingrediente>
+	   <ingrediente id="80">
+		  <nome>sal</nome>
+		  <quantidade unidade="g">10</quantidade>
+	  </ingrediente>
+	  <ingrediente id="56">
+		  <nome>alho</nome>
+		  <quantidade unidade="unidade">4</quantidade>
+	  </ingrediente>
+	  <ingrediente id="83">
+		  <nome>salsa</nome>
+		  <quantidade unidade="g">40</quantidade>
+	  </ingrediente>
+	  <ingrediente id="61">
+		  <nome>azeite</nome>
+		  <quantidade unidade="mL">10</quantidade>
+	  </ingrediente>
+	  
+	  
+	<receita tempo="45min">
+		<preparo>Temperar as tiras de entrecosto, com sal, alho, pimenta, limão.</preparo>  
+		<preparo>Numa chávena colocar um bocado de azeite, alho picado e salsa.</preparo>
+		<preparo>Levar a grelhar, no meu caso foi no grelhador a carvão.</preparo>
+		<preparo>Enquanto está a grelhar, ir pincelando com o preparado de azeite, alho e salsa, que na minha opinião deixa os grelhados mais saborosos.</preparo>
+		<preparo>Levar as nabiças a cozer em água e sal. Assim que as nabiças estiverem cozidas, escoar a água e reservar.</preparo>
+		<preparo>Lavar as batatas pequenas com casca, colocar a cozer em água e sal.</preparo>
+		<preparo>Dar só uma pequena cozedura, convém que ainda fiquem um bocado duras, ir picando com um garfo, porque depois ainda vai ao forno para assar. Escoar a água, dar um murro na batata e coloca-las numa assadeira, salpicar com algum sal e levar a assar no forno +/- 15min.</preparo>
+		<preparo>Verificar se o entrecosto já está grelhado.
+</preparo>
+		<preparo>Entretanto, na panela onde cozeu as nabiças, e para não sujar mais loiça, secar bem a panela e colocar azeite e alho picadinho, assim que alho começar a estalar adicionar as nabiças, e mexer, deixe cozinhar em lume fraco, entre 5 a 10min.</preparo>
+		<preparo>Verificar as batatas, Retirar as batatas do forno.</preparo>
+		<preparo>Num tacho colocar azeite e alho picado, levar ao lume, e assim que o alho começar a estalar, desligar e deitar o preparado por cima das batatas e salpicar com salsa picada.</preparo>
+		
+  </receita>
+  
+  
+  </ingredientes>

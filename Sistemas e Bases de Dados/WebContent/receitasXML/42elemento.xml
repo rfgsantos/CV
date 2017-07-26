@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="8">
+		<nome>garoupa</nome>
+		<quantidade unidade="kg">1</quantidade>
+	</ingrediente>
+	<ingrediente id="58">
+		<nome>tomate</nome>
+		<quantidade unidade="unidade">5</quantidade>
+	</ingrediente>
+	<ingrediente id="19">
+		<nome>batata</nome>
+		<quantidade unidade="unidade">6</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="colheres">6</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="55">
+		<nome>cebola</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="64">
+		<nome>folha louro</nome>
+		<quantidade unidade="unidade">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="56">
+		<nome>dentes alho</nome>
+		<quantidade unidade="unidade">5</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="30">
+		<nome>agua</nome>
+		<quantidade unidade="L">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="70">
+		<nome>pimento</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="13">
+		<nome>camarao</nome>
+		<quantidade unidade="unidade">6</quantidade>
+	</ingrediente>
+
+
+	<receita tempo="70min">
+		<preparo>1.Numa caçarola grande coloque o azeite e a cebola, doure levemente em fogo baixo</preparo>
+		<preparo>2.Junte os tomates cortados em pedaços, o louro, o alho, o cheiro verde, o funcho, o sal, a pimenta e o açafrão</preparo>
+		<preparo>3.Acrescente as batatas cortadas em fatias e o peixe em pedaços grandes</preparo>
+		<preparo>4.Em fogo baixo deixe cozinhar por alguns minutos</preparo>
+		<preparo>5.Coloque a água fervente</preparo>
+		<preparo>6.Mexa levemente para não desmanchar o peixe e deixe cozinhar em fogo baixo até que o caldo fique mais encorpado</preparo>
+		<preparo>7.Numa frigideira doure os camarões para enfeitar o prato</preparo>
+		<preparo>8.Sirva acompanhado de pedaços de baguete ou pão francês</preparo>
+	</receita>
+
+</ingredientes>

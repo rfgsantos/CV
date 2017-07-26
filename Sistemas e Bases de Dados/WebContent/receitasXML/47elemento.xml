@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="41">
+		<nome>Bolacha maria</nome>
+		<quantidade unidade="unidades">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="5">
+		<nome>ovos</nome>
+		<quantidade unidade="unidade">4</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="79">
+		<nome>manteiga</nome>
+		<quantidade unidade="g">125</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="43">
+		<nome>açucar</nome>
+		<quantidade unidade="g">250</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="68">
+		<nome>cafe</nome>
+		<quantidade unidade="g">20</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="5">
+		<nome>ovos</nome>
+		<quantidade unidade="unidade">4</quantidade>
+	</ingrediente>
+
+	
+	<receita tempo="50min">
+		<preparo>1. Bater as gemas, o açúcar e a manteiga muito bem até a mistura ficar cremosa. </preparo>
+		<preparo>2. Fazer café forte e passe as bolachas, uma a uma pelo café, não muito quente, e deixam-se arrefecer. </preparo>
+		<preparo>3. Coloca-se uma primeira fiada de bolachas num prato, como por exemplo em forma de flor, e depois barra-se com o creme. </preparo>
+		<preparo>4. Depois volta-se a colocar outra fiada de bolachas embebidas em café e depois o creme, e assim sucessivamente. </preparo>
+		<preparo>5. Por fim barra-se o bolo por fora.</preparo>
+	</receita>
+
+</ingredientes>

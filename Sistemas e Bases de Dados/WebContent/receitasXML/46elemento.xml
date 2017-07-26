@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="3">
+		<nome>Carne Vaca</nome>
+		<quantidade unidade="g">500</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="87">
+		<nome>folhas lasanha</nome>
+		<quantidade unidade="g">350</quantidade>
+	</ingrediente>
+
+	<ingrediente id="55">
+		<nome>cebola</nome>
+		<quantidade unidade="unidades">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidades">4</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="58">
+		<nome>tomate</nome>
+		<quantidade unidade="unidades">3</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="76">
+		<nome>polpa tomate</nome>
+		<quantidade unidade="unidades">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="69">
+		<nome>vinho branco</nome>
+		<quantidade unidade="mL">50</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="15">
+		<nome>queijo</nome>
+		<quantidade unidade="g">100</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="88">
+		<nome>oregaos</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="14">
+		<nome>bechamel</nome>
+		<quantidade unidade="mL">500</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="63">
+		<nome>pimenta</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<receita tempo="20min">
+		<preparo>1.Bater bem o leite condensado com as gemas; depois de bem batido envolve-se com a colher de pau as claras batidas em castelo.</preparo>
+		<preparo>2.Por cima pode-se por amêndoa, noz ou bolacha ralada.</preparo>
+		<preparo>3.Vai ao frio até à hora de servir.</preparo>
+	</receita>
+
+</ingredientes>

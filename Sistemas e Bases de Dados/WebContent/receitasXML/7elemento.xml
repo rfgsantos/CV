@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="85">
+		<nome>Peito Peru</nome>
+		<quantidade unidade="g">400</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidades">3</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="5">
+		<nome>ovo</nome>
+		<quantidade unidade="unidades">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="86">
+		<nome>farinha</nome>
+		<quantidade unidade="g">10g</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="20">
+		<nome>pao</nome>
+		<quantidade unidade="unidade">3</quantidade>
+	</ingrediente>
+	
+	<ingrediente>
+		<nome>azeite</nome>
+		<quantidade unidade="mL">30</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="63">
+		<nome>pimenta</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="63">
+		<nome>azeite</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<receita tempo="45min">
+		<preparo>1.Corte o peito de peru em bifes não muito grossos.</preparo>
+		<preparo>2.Bata os bifes com um batedor de carne para que fiquem todos com uma espessura uniforme.</preparo>
+		<preparo>3.Coloque os bifes numa taça e regue-os com sumo de limão.</preparo>
+		<preparo>4.Corte os dentes de alhos depois de descascados em lâminas. Junte aos bifes.</preparo>
+		<preparo>5.Mexa para que toda a carne fique bem impregnada de sumo de limão.</preparo>
+		<preparo>6.Tape a taça com película aderente, ponha no frigorífico a tomar gosto durante 60 minutos.</preparo>
+		<preparo>7.Escorra os bifes, passe-os primeiro pela farinha, depois pelos ovos batidos e por fim envolva-os no pão ralado fazendo aderir bem o panado.</preparo>
+		<preparo>8.Aqueça o azeite e frite-os de ambos os lados.</preparo>
+		<preparo>9.Escorra-os, sobre papel absorvente.</preparo>
+		<preparo>10.Sirva acompanhado com arroz de ervilhas ou de cenouras e uma salada verde.</preparo>
+	</receita>
+
+</ingredientes>

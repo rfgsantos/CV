@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="13">
+		<nome>camarao</nome>
+		<quantidade unidade="g">300</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="20">
+		<nome>pao</nome>
+		<quantidade unidade="unidades">4</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="89">
+		<nome>coentros</nome>
+		<quantidade unidade="g">40</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="63">
+		<nome>pimenta</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="5">
+		<nome>ovo</nome>
+		<quantidade unidade="unidades">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidades">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="64">
+		<nome>folha louro</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+
+	
+	<receita tempo="45min">
+		<preparo>1.Ponha água ao lume com 1 dente de alho, a folha de louro e um pouco de sal. Quando começar a ferver, coloque os camarões durante 5 minutos. Retire do lume e reserve os camarões. </preparo>
+		<preparo>2.Coloque as fatias de pão partidas ao meio num recipiente.
+De seguida, retire o dente de alho e a folha de louro da água e verta essa água para o recipiente onde está o pão, amolecendo-o.</preparo>
+		<preparo>3.Num tachinho, coloque o azeite e 1 dente de alho, para alourar. Quando o alho estiver a "estalar", adicione o pão com a água e os camarões, envolvendo tudo.</preparo>
+		<preparo>4.Junte os coentros picadinhos e tempere de priri-piri, sal e pimenta a gosto.</preparo>
+		<preparo>5.Deixe cozer um pouco e junte o ovo, misturando rapidamente para cozer.
+Sirva de imediato</preparo>
+	</receita>
+
+</ingredientes>

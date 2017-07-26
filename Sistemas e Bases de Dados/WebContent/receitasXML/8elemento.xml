@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="2">
+		<nome>carne vaca</nome>
+		<quantidade unidade="g">700</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="5">
+		<nome>cebola</nome>
+		<quantidade unidade="unidades">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidades">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="10">
+		<nome>chili</nome>
+		<quantidade unidade="g">20</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="90">
+		<nome>malagueta</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="91">
+		<nome>cominhos</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="58">
+		<nome>tomate</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="76">
+		<nome>polpa tomate</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="92">
+		<nome>feijao vermelho</nome>
+		<quantidade unidade="lata">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">20</quantidade>
+	</ingrediente>
+
+	
+	<receita tempo="40min">
+		<preparo>1. Aqueça o azeite com a carne picada, as cebolas, o alho e o aipo, e deixe fritar durante 5 minutos. </preparo>
+		<preparo>2. Acrescente o chili (malagueta) e o cominho e deixe cozinhar por 2 minutos.  </preparo>
+		<preparo>3. Junte os tomates pelados e depois o feijão e a massa de tomate, deixe ferver.  </preparo>
+		<preparo>4. Tape e leve ao forno pré-aquecido (175º), mexendo de vez em quando.Tempere com sal a gosto.  </preparo>
+		<preparo>5. Sirva com arroz, umas fatias de abacate e cebola.</preparo>
+	</receita>
+
+</ingredientes>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="20">
+		<nome>Pao</nome>
+		<quantidade unidade="unidade">3</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="79">
+		<nome>manteiga</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+
+	
+	<receita tempo="5min">
+		<preparo>1.Torrar o pão numa tostadeira.</preparo>
+		<preparo>2.Barrar manteiga no pão.</preparo>
+		<preparo>3.Servir enquanto a manteiga não está totalmente derretida.</preparo>
+	</receita>
+
+</ingredientes>

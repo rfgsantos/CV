@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="94">
+		<nome>salmao</nome>
+		<quantidade unidade="g">1000</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidades">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="93">
+		<nome>salsa picada</nome>
+		<quantidade unidade="g">20</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="mL">10</quantidade>
+	</ingrediente>
+
+	<receita tempo="20min">
+		<preparo>1.Misture todos os temperos, coloque em um vidro fechado e guarde na geladeira. </preparo>
+		<preparo>2.No dia seguinte uma hora antes de assar o salmão, tempere, faça sulcos no comprimento da peça de salmão e encha com o tempero.</preparo>
+		<preparo>3.Coloque em um refratário com a pele para baixo, cubra com papel alumínio e leve ao forno. Depois retire o papel alumínio e deixe corar bem.</preparo>
+	</receita>
+
+</ingredientes>

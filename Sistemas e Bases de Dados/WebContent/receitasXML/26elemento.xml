@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="24">
+		<nome>pescada</nome>
+		<quantidade unidade="g">400</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="22">
+		<nome>limao</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidade">2</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="36">
+		<nome>farinha</nome>
+		<quantidade unidade="g">300</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="5">
+		<nome>ovo</nome>
+		<quantidade unidade="unidade">3</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="4">
+		<nome>arroz</nome>
+		<quantidade unidade="g">300</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="58">
+		<nome>tomate</nome>
+		<quantidade unidade="unidade">3</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="55">
+		<nome>cebola</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="64">
+		<nome>folha louro</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<receita tempo="45min">
+		<preparo>1.Tempera-se os filetes de sumo de limão, sal e alho picado. Deixa-se marinar. Quando chegar a hora de os fritar, é só escorrer a marinada, e passar um a um por farinha de milho e ovo batido e fritar em óleo bem quente. Deixar alourar bem de ambos os lados e ir repetindo até fritar todos. Deixar escorrer sobre papel absorvente.
+Read more at http://pt.petitchef.com/receitas/prato-principal/filetes-de-pescada-com-arroz-de-tomate-malandrinho-fid-683666#hGpYUr8K6bpjpFRu.99</preparo>
+		<preparo>2.Para o arroz, pica-se a cebola, os alhos e o tomate maduro. Deita-se num tacho com o azeite e a folha de louro e deixa-se refogar lentamente. Por fim, deita-se água necessária à cozedura do arroz. Quando esta levantar fervura deita-se o arroz e deixa-se cozer.
+Read more at http://pt.petitchef.com/receitas/prato-principal/filetes-de-pescada-com-arroz-de-tomate-malandrinho-fid-683666#hGpYUr8K6bpjpFRu.99</preparo>
+		
+	</receita>
+
+</ingredientes>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="4">
+		<nome>aroz</nome>
+		<quantidade unidade="g">350</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="93">
+		<nome>berbigao</nome>
+		<quantidade unidade="kg">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="13">
+		<nome>camarao</nome>
+		<quantidade unidade="g">250</quantidade>
+	</ingrediente>
+
+	<ingrediente id="56">
+		<nome>alho</nome>
+		<quantidade unidade="unidades">3</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="mL">100</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="89">
+		<nome>coentros</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="80">
+		<nome>sal</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="63">
+		<nome>pimenta</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+	
+	<receita tempo="60min">
+		<preparo>1.Ponha o berbigão de molho durante algumas horas em água e sal. 
+Lave-o em água corrente e abra-o sobre fogo muito forte com meio copo de água. </preparo>
+		<preparo>2.Retire os berbigões à medida que forem abrindo. 
+Reserve a água que largaram e retire as conchas. </preparo>
+		<preparo>3.Coza o camarão num pouco de água temperada com sal só o tempo necessário para lhes poder retirar a casca. 
+Descasque os camarões reservando as cabeças e a água de os cozer. </preparo>
+		<preparo>4.Ferva as cabeças de camarão na água em que cozeram durante meia hora. 
+Triture tudo num copo misturador (mixer) ou passe pelo passe-vite. 
+Junte a água dos berbigões e coe tudo através de uma gaze.</preparo>
+		<preparo>5.Pique os dentes de alho e aloure-os ligeiramente com o azeite. 
+Junte os coentros picados, deixe fritar durante alguns segundos e regue com a água dos mariscos que deve medir pelo menos três vezes o vofogo de arroz.</preparo>
+		<preparo>6.Deixe levantar fervura e junte o arroz passado rapidamente por água. 
+Assim que o caldo ferver de novo tempere com pimenta e pimenta vermelha e verifique o sal. </preparo>
+		<preparo>7.Reduza o calor e deixe cozer até o arroz estar bem cozido. 
+Cinco minutos antes de servir introduza os mariscos no arroz. </preparo>
+	</receita>
+
+</ingredientes>

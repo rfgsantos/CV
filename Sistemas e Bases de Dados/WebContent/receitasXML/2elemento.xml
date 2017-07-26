@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <ingredientes>
+  
+	  <ingrediente id="3">
+		  <nome>bifes de vaca</nome>
+		  <quantidade unidade="g">400</quantidade>
+	  </ingrediente>
+	  <ingrediente id="5">
+		  <nome>ovos</nome>
+		  <quantidade unidade="unidades">4</quantidade>
+	  </ingrediente>
+	  <ingrediente id="56">
+		  <nome>dentes de alho</nome>
+		  <quantidade unidade="unidades">4</quantidade>
+	  </ingrediente>
+	  <ingrediente id="80">
+		  <nome>sal </nome>
+		  <quantidade unidade="g">10</quantidade>
+	  </ingrediente>
+	  
+	  <ingrediente id="63">
+		  <nome>pimenta</nome>
+		  <quantidade unidade="g">10</quantidade>
+	  </ingrediente>
+	  
+	  <ingrediente id="61">
+		  <nome>azeite</nome>
+		  <quantidade unidade="mL">100</quantidade>
+	  </ingrediente>
+	  
+	  
+	<receita tempo="30min">
+		<preparo>1. Corte os dentes de alho em lâminas finas.</preparo>  
+		<preparo>2. Polvilhe os bifes com os alhos, o sal e a pimenta. Deixe ficar durante 30 minutos. </preparo>
+		<preparo>3. Aqueça o azeite e frite os bifes dos dois lados.  </preparo>
+		<preparo>4. Entretanto, estrele os ovos em azeite e coloque sobre os bifes.</preparo>
+		<preparo>5. Sirva imediatamente, com batatas fritas em palitos grossos.</preparo>
+  </receita>
+  
+  
+  </ingredientes>

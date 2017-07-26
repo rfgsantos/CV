@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredientes>
+	<ingrediente id="35">
+		<nome>farinheira</nome>
+		<quantidade unidade="unidade">1</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="5">
+		<nome>ovos</nome>
+		<quantidade unidade="unidade">4</quantidade>
+	</ingrediente>
+	
+	<ingrediente id="61">
+		<nome>azeite</nome>
+		<quantidade unidade="g">10</quantidade>
+	</ingrediente>
+
+	
+	<receita tempo="20min">
+		<preparo>1.Retirar a pele à farinheira e colocar o recheio numa frigideira, só com um fio de azeite. Juntar os ovos batidos, temperar a gosto e mexer para misturar bem até que os ovos esteja bem passado. </preparo>
+		<preparo>2.Polvilhe com um pouco de orégãos e servir bem quente.</preparo>
+	</receita>
+
+</ingredientes>

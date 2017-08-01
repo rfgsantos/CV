@@ -6,7 +6,7 @@ I hope you like what you see.
 
 Brief description of all the projects:
 
-Fundamentos Sistemas Operativos - Using the language Java, implement some behaviours and automate the coordination between them using Multi-Threading.
+Fundamentos Sistemas Operativos - Using the language Java, implement some behaviours in a Lego Robot and automate the coordination between them using Multi-Threading.
 
 Sistemas Multimedia para a Internet - Using the language PHP and MySQL, create a Web App that gives the user the possibility to send content, see content and change content within the application.
 
